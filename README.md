@@ -18,7 +18,7 @@ Copy the `script/yaml.sh` file and import on your script: `source yaml.sh`
 
 Then two functions are viable:
 
-- **parse_yaml**: Output result from the readed yaml file.
+- **parse_yaml**: Output result from the read yaml file.
 - **create_variables**: Read and create variables based on yaml file passed by argument.
 
 Look at `test` folder to see more.
