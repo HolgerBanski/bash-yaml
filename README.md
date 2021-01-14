@@ -25,7 +25,7 @@ Look at `test` folder to see more.
 
 ### Testing
 
-You can test if your yaml file will be readed correctly based on test folder.
+You can test if your yaml file will be read correctly based on test folder.
 
 ## Known issues
 
